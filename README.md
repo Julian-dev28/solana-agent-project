@@ -23,8 +23,8 @@ A TypeScript application that integrates with OKX DEX on Solana, allowing for to
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/solana-okx-dex.git
-cd solana-okx-dex
+git clone https://github.com/julian-dev28/solana-agent-project.git
+cd solana-agent-project
 ```
 
 2. Install dependencies:
@@ -41,6 +41,7 @@ cp .env.example .env
 
 4. Configure the `.env` file with your API keys and wallet details.
 You can get your API keys from the [OKX Developer Portal](https://www.okx.com/web3/build/dev-portal).
+You can get your RPC URL from the [Helius Dashboard Portal](https://dashboard.helius.dev/).
 
 5. Run the application:
 
